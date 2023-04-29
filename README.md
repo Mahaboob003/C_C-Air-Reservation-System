@@ -1,7 +1,6 @@
 # C_C-Air-Reservation-System
-CodeClause-Air_Reservation_System.java
-import java.util.*;
 
+import java.util.*;
 public class AirlineReservationSystem {
     private static final int NUMBER_OF_SEATS = 10;
     private static boolean[] seats = new boolean[NUMBER_OF_SEATS];
